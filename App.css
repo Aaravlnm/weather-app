@@ -1,0 +1,12 @@
+.box
+{
+    width: 150px;
+    font-family: comic sans ms;
+    font-size: 25px;
+    padding: 25px;
+    margin:25px;
+    box-shadow: 0 5px 2px gray;
+    border:solid 1px gray;
+    text-align: center;
+    display: inline-block;
+}
